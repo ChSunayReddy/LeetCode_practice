@@ -30,5 +30,6 @@ class Maxsum_of_pairs_with_equalsum_ofdigits {
         int[] nums={18,43,36,13,7};
         int[] n={10,12,19,14};
         System.out.println(maximumSum(n));
+        System.out.println(maximumSum(nums));
     }
 }
