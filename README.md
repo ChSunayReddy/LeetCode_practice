@@ -15,6 +15,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
+| [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -39,6 +40,7 @@ Just Daily questions and some random questions of LeetCode.
 ## String
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3617-find-the-original-typed-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3617-find-the-original-typed-string-i) |
 ## Binary Search
@@ -53,6 +55,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 ## Greedy
 |  |
 | ------- |
