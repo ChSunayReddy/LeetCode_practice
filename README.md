@@ -14,6 +14,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
