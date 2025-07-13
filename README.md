@@ -47,6 +47,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
+| [1542-consecutive-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3617-find-the-original-typed-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3617-find-the-original-typed-string-i) |
