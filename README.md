@@ -24,6 +24,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1510-find-lucky-integer-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
@@ -99,6 +100,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,5 +155,10 @@ Just Daily questions and some random questions of LeetCode.
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
