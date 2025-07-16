@@ -8,6 +8,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0198-house-robber) |
@@ -29,6 +30,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0198-house-robber) |
@@ -106,6 +108,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
