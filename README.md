@@ -30,6 +30,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Math
 |  |
 | ------- |
