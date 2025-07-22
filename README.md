@@ -70,6 +70,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1542-consecutive-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1542-consecutive-characters) |
@@ -93,6 +94,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -131,6 +133,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
