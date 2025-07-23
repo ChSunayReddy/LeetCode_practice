@@ -46,6 +46,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
@@ -195,6 +196,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
