@@ -81,6 +81,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1542-consecutive-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2470-removing-stars-from-a-string) |
@@ -117,6 +118,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
