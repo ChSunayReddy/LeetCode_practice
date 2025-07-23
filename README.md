@@ -49,6 +49,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0357-count-numbers-with-unique-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
+| [1250-longest-common-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -72,6 +73,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
+| [1250-longest-common-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1542-consecutive-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
