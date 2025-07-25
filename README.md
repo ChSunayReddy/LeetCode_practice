@@ -36,6 +36,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
