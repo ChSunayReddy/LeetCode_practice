@@ -42,6 +42,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0091-decode-ways) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
