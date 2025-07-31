@@ -242,4 +242,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Database
+|  |
+| ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
