@@ -7,6 +7,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
@@ -43,6 +44,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0091-decode-ways) |
@@ -186,6 +188,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -193,6 +196,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
@@ -236,6 +240,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Trie
