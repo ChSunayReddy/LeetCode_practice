@@ -6,6 +6,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
@@ -107,6 +108,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -179,6 +181,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
