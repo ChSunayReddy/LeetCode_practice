@@ -42,6 +42,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -168,6 +169,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1510-find-lucky-integer-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
