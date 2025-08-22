@@ -86,6 +86,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3817-maximum-containers-on-a-ship) |
 ## Breadth-First Search
 |  |
 | ------- |
