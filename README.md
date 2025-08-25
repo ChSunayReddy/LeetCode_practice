@@ -24,6 +24,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0724-find-pivot-index) |
@@ -268,6 +269,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -276,6 +278,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
