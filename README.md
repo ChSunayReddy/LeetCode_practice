@@ -118,6 +118,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2470-removing-stars-from-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2470-removing-stars-from-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3396-valid-word) |
+| [3468-find-the-encrypted-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3468-find-the-encrypted-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3617-find-the-original-typed-string-i) |
 ## Binary Search
 |  |
