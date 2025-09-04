@@ -308,6 +308,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0176-second-highest-salary) |
 | [1258-article-views-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1258-article-views-i) |
 | [1811-fix-names-in-a-table](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1827-invalid-tweets) |
