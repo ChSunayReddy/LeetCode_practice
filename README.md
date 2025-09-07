@@ -36,6 +36,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
@@ -89,6 +90,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
