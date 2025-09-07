@@ -10,6 +10,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0014-longest-common-prefix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
@@ -187,6 +188,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -245,6 +247,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0357-count-numbers-with-unique-digits) |
@@ -288,6 +291,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
