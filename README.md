@@ -103,6 +103,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 ## String
 |  |
@@ -264,17 +265,20 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
