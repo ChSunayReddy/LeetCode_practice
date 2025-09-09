@@ -21,10 +21,8 @@ class Solution {
         if(Math.abs(lh-rh)>1) return false;
         return isBalanced(root.left) && isBalanced(root.right);
     }
-    int height(TreeNode root){
-        if(root==null) return 0;
-        int lh=height(root.left);
-        int rh=height(root.right);
-        return 1+Math.max(lh,rh);
+    private int height(TreeNode node){
+        if(node == null) return 0;
+        return 1 + Math.max(height(node.left), height(node.right));
     } 
 }
