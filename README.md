@@ -107,6 +107,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 ## String
@@ -276,6 +277,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -286,6 +288,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
@@ -297,6 +300,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
