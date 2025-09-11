@@ -335,6 +335,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -376,4 +377,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
