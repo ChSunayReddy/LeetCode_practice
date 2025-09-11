@@ -16,6 +16,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -315,6 +316,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
@@ -327,6 +329,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
