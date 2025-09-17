@@ -147,6 +147,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -284,6 +285,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -309,11 +311,13 @@ Just Daily questions and some random questions of LeetCode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0338-counting-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
