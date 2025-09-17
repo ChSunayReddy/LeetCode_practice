@@ -65,6 +65,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0343-integer-break) |
@@ -278,6 +280,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -306,6 +309,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -408,4 +412,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
