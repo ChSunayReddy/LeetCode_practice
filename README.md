@@ -90,6 +90,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
@@ -340,6 +341,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -414,6 +416,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Game Theory
 |  |
