@@ -91,6 +91,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
