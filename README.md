@@ -127,6 +127,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0006-zigzag-conversion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0014-longest-common-prefix) |
+| [0065-valid-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0091-decode-ways) |
