@@ -23,6 +23,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -360,6 +361,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
