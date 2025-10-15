@@ -28,6 +28,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0198-house-robber](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
@@ -105,6 +106,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0096-unique-binary-search-trees](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0357-count-numbers-with-unique-digits) |
@@ -172,6 +174,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -216,6 +219,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0018-4sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
@@ -246,6 +250,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -365,6 +370,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0191-number-of-1-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0338-counting-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
