@@ -60,6 +60,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -114,6 +115,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -213,6 +215,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -268,6 +271,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
