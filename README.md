@@ -73,6 +73,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
@@ -141,6 +142,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0006-zigzag-conversion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
@@ -303,6 +305,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0394-decode-string) |
