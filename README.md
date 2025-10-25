@@ -73,6 +73,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
@@ -144,6 +145,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
@@ -326,6 +328,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
