@@ -19,6 +19,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
@@ -332,6 +333,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 ## Tree
@@ -383,6 +385,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
