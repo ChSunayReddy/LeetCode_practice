@@ -21,6 +21,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -232,6 +233,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
@@ -440,6 +442,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
