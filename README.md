@@ -26,6 +26,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0198-house-robber) |
@@ -224,6 +225,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
