@@ -17,6 +17,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0039-combination-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
@@ -151,6 +152,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
@@ -237,6 +239,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
@@ -271,6 +274,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
