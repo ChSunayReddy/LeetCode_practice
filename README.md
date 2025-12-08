@@ -42,6 +42,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
@@ -247,6 +248,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -284,6 +286,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0525-contiguous-array) |
+| [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -412,6 +415,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0800-letter-case-permutation) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
