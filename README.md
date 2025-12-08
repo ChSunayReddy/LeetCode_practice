@@ -45,6 +45,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0525-contiguous-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
@@ -209,6 +210,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -223,6 +225,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -262,6 +265,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -334,6 +338,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Bucket Sort
 |  |
@@ -479,6 +484,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0088-merge-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
