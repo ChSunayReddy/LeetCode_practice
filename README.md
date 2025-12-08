@@ -65,6 +65,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1929-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -108,6 +109,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1250-longest-common-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -134,6 +136,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3279-alice-and-bob-playing-flower-game) |
