@@ -82,6 +82,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3583-count-special-triplets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -145,6 +146,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3568-find-the-key-of-the-numbers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3817-maximum-containers-on-a-ship) |
 ## Breadth-First Search
@@ -522,6 +524,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -547,4 +550,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
