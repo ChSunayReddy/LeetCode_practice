@@ -82,6 +82,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3583-count-special-triplets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -279,6 +280,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
 ## Counting
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3583-count-special-triplets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
