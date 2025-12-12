@@ -49,6 +49,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 | [0940-fruit-into-baskets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -218,6 +219,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0367-valid-perfect-square](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
