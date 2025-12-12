@@ -6,6 +6,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0018-4sum) |
@@ -307,6 +308,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
