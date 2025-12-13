@@ -89,6 +89,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3606-coupon-code-validator) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -207,6 +208,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3396-valid-word](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3468-find-the-encrypted-string) |
+| [3606-coupon-code-validator](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -291,6 +293,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3433-count-mentions-per-user](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3433-count-mentions-per-user) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
@@ -343,6 +346,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3606-coupon-code-validator) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
