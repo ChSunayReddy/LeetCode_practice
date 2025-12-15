@@ -428,6 +428,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,6 +459,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
 | ------- |
