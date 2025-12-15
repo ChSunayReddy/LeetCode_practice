@@ -11,8 +11,8 @@ class Solution {
                     c= true;
                     break;
                 }
-                if(!c) ans[i] = prices[i];
             }
+            if(!c) ans[i] = prices[i];
         }
         return ans;
     }
