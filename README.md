@@ -380,6 +380,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -577,4 +578,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
