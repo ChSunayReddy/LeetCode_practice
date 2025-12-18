@@ -5,7 +5,6 @@ class Solution {
        return res;
     }
     public void backtrack(int[] cand,int tar,int start,List<Integer> cur,List<List<Integer>> res){
-        //Base Case
         if(tar==0){
             res.add(new ArrayList<>(cur)); //copy od current
             return ;
