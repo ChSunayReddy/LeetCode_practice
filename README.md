@@ -57,6 +57,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 | [0940-fruit-into-baskets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
@@ -204,6 +205,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0800-letter-case-permutation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0800-letter-case-permutation) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1160-letter-tile-possibilities) |
