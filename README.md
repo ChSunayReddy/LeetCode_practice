@@ -75,6 +75,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1929-concatenation-of-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -129,6 +130,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1250-longest-common-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
+| [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -252,6 +254,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -313,6 +316,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
@@ -391,6 +395,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
+| [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Bucket Sort
 |  |
