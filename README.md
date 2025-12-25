@@ -88,6 +88,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3433-count-mentions-per-user](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3433-count-mentions-per-user) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -300,6 +301,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -324,6 +326,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3433-count-mentions-per-user) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3531-count-covered-buildings) |
