@@ -470,6 +470,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -487,6 +488,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -505,6 +507,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
