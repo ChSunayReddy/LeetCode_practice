@@ -76,6 +76,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -286,6 +287,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
@@ -330,6 +332,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
