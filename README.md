@@ -234,6 +234,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2027-minimum-moves-to-convert-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2027-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
@@ -311,6 +312,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2027-minimum-moves-to-convert-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2027-minimum-moves-to-convert-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
