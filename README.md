@@ -91,6 +91,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -241,6 +242,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2470-removing-stars-from-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -672,4 +674,12 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
