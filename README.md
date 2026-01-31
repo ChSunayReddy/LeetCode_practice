@@ -54,6 +54,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
 | [0940-fruit-into-baskets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0940-fruit-into-baskets) |
@@ -267,6 +268,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
