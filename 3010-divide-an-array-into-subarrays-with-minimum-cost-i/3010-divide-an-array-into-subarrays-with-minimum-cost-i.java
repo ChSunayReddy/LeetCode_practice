@@ -1,22 +1,18 @@
 class Solution {
     public int minimumCost(int[] nums) {
-        int freq[] = new int[51];
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            freq[nums[i]]++;
-        }
-        int res = nums[0];
-        freq[nums[0]]--;
-        int count = 1;
-        for (int i = 1; i <= 50; i++) {
-            if (count == 3)
-                break;
-            while (freq[i] > 0 && count < 3) {
-                freq[i]--;
-                count++;
-                res += i;
+        int first = nums[0];
+        int min1 = Integer.MAX_VALUE;
+        int min2 = Integer.MAX_VALUE;
+
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < min1) {
+                min2 = min1;
+                min1 = nums[i];
+            } else if (nums[i] < min2) {
+                min2 = nums[i];
             }
         }
-        return res;
+
+        return first + min1 + min2;
     }
 }
