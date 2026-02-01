@@ -93,6 +93,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -346,6 +347,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3433-count-mentions-per-user) |
@@ -634,6 +636,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Queue
 |  |
 | ------- |
