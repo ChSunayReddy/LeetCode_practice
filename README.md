@@ -381,6 +381,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
@@ -595,6 +596,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0031-next-permutation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
@@ -648,6 +650,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
 |  |
