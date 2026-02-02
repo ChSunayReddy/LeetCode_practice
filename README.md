@@ -41,6 +41,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0213-house-robber-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0485-max-consecutive-ones) |
@@ -301,6 +302,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0724-find-pivot-index) |
@@ -667,6 +669,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 ## Rolling Hash
 |  |
 | ------- |
