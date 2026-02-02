@@ -556,6 +556,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0394-decode-string) |
@@ -651,6 +652,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0002-add-two-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
 |  |
