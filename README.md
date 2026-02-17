@@ -31,6 +31,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -319,6 +320,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0409-longest-palindrome) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
