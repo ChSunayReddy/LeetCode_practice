@@ -396,6 +396,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
@@ -675,6 +676,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
@@ -696,6 +698,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 ## Rolling Hash
@@ -709,6 +712,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Graph Theory
 |  |
