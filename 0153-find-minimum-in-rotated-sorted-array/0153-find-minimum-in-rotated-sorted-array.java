@@ -6,8 +6,8 @@ class Solution {
         while(l<=r){
             int mid = l + (r-l)/2;
             if(nums[mid]<min) min = nums[mid];
-            if(nums[mid]<nums[r]) r--;
-            else l++;
+            if(nums[mid]<nums[r]) r = mid-1;
+            else l = mid+1;
         }
         return min;
     }
