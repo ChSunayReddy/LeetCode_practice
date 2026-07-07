@@ -196,6 +196,7 @@ Just Daily questions and some random questions of LeetCode.
 | [3568-find-the-key-of-the-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3568-find-the-key-of-the-numbers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3817-maximum-containers-on-a-ship) |
 ## Breadth-First Search
 |  |
