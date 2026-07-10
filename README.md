@@ -97,6 +97,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2615-sum-of-distances](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2815-max-pair-sum-in-an-array) |
@@ -328,6 +329,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0966-binary-subarrays-with-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2615-sum-of-distances) |
 ## Greedy
 |  |
 | ------- |
@@ -431,6 +433,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2615-sum-of-distances](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2815-max-pair-sum-in-an-array) |
