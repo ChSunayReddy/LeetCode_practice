@@ -8,8 +8,7 @@ class Solution {
             if(arr[mid]==target) return mid;
             else if(arr[mid] <=arr[hi]){ 
                 if(target >arr[mid] &&  target <=arr[hi]) lo=mid+1;
-                    else hi=mid-1;
-                
+                    else hi=mid-1;   
             }
             else { 
                 if(target >=arr[lo] &&  target <arr[mid]){
