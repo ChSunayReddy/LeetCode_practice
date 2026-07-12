@@ -25,6 +25,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
@@ -406,6 +407,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0036-valid-sudoku](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
@@ -616,6 +618,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0037-sudoku-solver](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0498-diagonal-traverse) |
