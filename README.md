@@ -681,6 +681,7 @@ Just Daily questions and some random questions of LeetCode.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1291-sequential-digits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Queue
