@@ -34,6 +34,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0118-pascals-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0137-single-number-ii) |
@@ -411,6 +412,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0049-group-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
@@ -742,4 +744,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
