@@ -196,6 +196,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3433-count-mentions-per-user](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -268,6 +269,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2483-minimum-penalty-for-a-shop](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -349,6 +351,7 @@ Just Daily questions and some random questions of LeetCode.
 | [2027-minimum-moves-to-convert-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2027-minimum-moves-to-convert-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2689-rearranging-fruits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
