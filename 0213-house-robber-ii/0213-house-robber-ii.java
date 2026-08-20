@@ -1,23 +1,22 @@
 class Solution {
     public int rob(int[] nums) {
-        int n =nums.length;
-        int [] dp1 = new int[n];
-        Arrays.fill(dp1,-1);
-        int [] dp2 = new int[n];
-        Arrays.fill(dp2,-1);
-        return Math.max(robber(dp1,n-1,2,nums)+nums[0],robber(dp2,n,1,nums));
+        int n = nums.length;
+        if(nums==null || n==0) return 0;
+        if(n==1) return nums[0];
+        if(n==2) return Math.max(nums[0], nums[1]);
+        int c1 = robrange(nums, 0, n-2);
+        int c2 = robrange(nums, 1, n-1);
+        return Math.max(c1, c2);
     }
-
-    static int robber(int [] dp,int n,int i,int [] nums){
-            if(i>=n){
-                return 0;
-            }
-            if(dp[i]!=-1){
-                return dp[i];
-            }
-            int  chori =nums[i]+robber(dp,n,i+2,nums);
-            int nachori = robber(dp,n,i+1,nums);
-            dp[i]=Math.max(chori,nachori);
-            return dp[i];
+    private int robrange(int[] nums, int start, int end){
+        int n = end-start+1;
+        if(n==1) return nums[0];
+        int[] dp = new int[n];
+        dp[0] = nums[start];
+        dp[1] = Math.max(nums[start], nums[start+1]);
+        for(int i=2;i<n;i++){
+            dp[i] = Math.max(dp[i-1], nums[start+i]+dp[i-2]);
+        }
+        return dp[n-1];
     }
 }
