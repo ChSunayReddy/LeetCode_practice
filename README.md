@@ -256,6 +256,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1297-maximum-number-of-balloons) |
@@ -352,6 +353,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0409-longest-palindrome](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0409-longest-palindrome) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2027-minimum-moves-to-convert-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2027-minimum-moves-to-convert-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -501,6 +503,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -512,6 +515,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1628-count-submatrices-with-all-ones) |
 ## Backtracking
