@@ -67,6 +67,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0878-shifting-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0878-shifting-letters) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -155,6 +156,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0518-coin-change-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0740-delete-and-earn) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -591,6 +593,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0342-power-of-four](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0800-letter-case-permutation) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
