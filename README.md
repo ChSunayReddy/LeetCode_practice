@@ -79,6 +79,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1200-minimum-absolute-difference](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -222,6 +223,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
 ## String
 |  |
 | ------- |
@@ -570,6 +572,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
