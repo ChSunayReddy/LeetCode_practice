@@ -95,6 +95,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1993-operations-on-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1993-operations-on-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -226,6 +227,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
+| [1993-operations-on-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1993-operations-on-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## String
 |  |
@@ -457,6 +459,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1510-find-lucky-integer-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1813-maximum-erasure-value) |
+| [1993-operations-on-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1993-operations-on-tree) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2428-equal-row-and-column-pairs) |
@@ -561,6 +564,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1993-operations-on-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1993-operations-on-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -582,6 +586,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1993-operations-on-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1993-operations-on-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -756,6 +761,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0146-lru-cache](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
+| [1993-operations-on-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1993-operations-on-tree) |
 ## Rolling Hash
 |  |
 | ------- |
