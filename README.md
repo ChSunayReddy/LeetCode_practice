@@ -581,6 +581,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
@@ -770,6 +771,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
