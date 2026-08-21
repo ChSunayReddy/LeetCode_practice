@@ -226,6 +226,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## String
 |  |
 | ------- |
@@ -582,6 +583,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
@@ -772,6 +774,7 @@ Just Daily questions and some random questions of LeetCode.
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -785,6 +788,7 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -793,4 +797,12 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
