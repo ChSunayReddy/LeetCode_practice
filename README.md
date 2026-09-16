@@ -811,4 +811,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2360-longest-cycle-in-a-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
