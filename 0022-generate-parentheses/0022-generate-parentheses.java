@@ -1,19 +1,19 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        backtrack(res,"",0,0,n);
-        return res;
+        List<String> ans = new ArrayList<>();
+        gen(n, n, "", ans);
+        return ans;
     }
-    public void backtrack(List<String> res,String s,int open,int close,int n){
-        if(s.length()==2*n){
-            res.add(s);
+    static void gen(int open, int close, String s, List<String> ans){
+        if(open==0 && close==0){
+            ans.add(s);
             return;
         }
-        if(open<n){
-            backtrack(res,s+"(",open+1,close,n);
+        if(open>0){
+            gen(open-1, close, s+"(", ans);
         }
-        if(close<open){
-            backtrack(res,s+")",open,close+1,n);
+        if(close>open){
+            gen(open, close-1, s+")", ans);
         }
     }
 }
