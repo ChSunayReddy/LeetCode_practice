@@ -275,6 +275,7 @@ Just Daily questions and some random questions of LeetCode.
 | [1542-consecutive-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2027-minimum-moves-to-convert-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2027-minimum-moves-to-convert-string) |
