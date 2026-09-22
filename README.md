@@ -52,6 +52,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +159,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0213-house-robber-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0343-integer-break) |
@@ -229,6 +231,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0112-path-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1306-jump-game-iii) |
@@ -832,4 +835,12 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0334-increasing-triplet-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
