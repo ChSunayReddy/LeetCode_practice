@@ -52,6 +52,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0485-max-consecutive-ones) |
@@ -362,6 +363,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0135-candy](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0409-longest-palindrome) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
@@ -815,4 +817,8 @@ Just Daily questions and some random questions of LeetCode.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0022-generate-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
