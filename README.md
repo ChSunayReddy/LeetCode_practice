@@ -56,6 +56,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0485-max-consecutive-ones) |
@@ -315,6 +316,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0222-count-complete-tree-nodes](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0713-subarray-product-less-than-k) |
@@ -397,6 +399,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0215-kth-largest-element-in-an-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
@@ -455,6 +458,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0166-fraction-to-recurring-decimal](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -697,6 +701,7 @@ Just Daily questions and some random questions of LeetCode.
 | [0141-linked-list-cycle](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ChSunayReddy/LeetCode_practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
